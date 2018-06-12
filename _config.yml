@@ -1,5 +1,5 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: http://katieball.me  #Your url here
 baseurl: /project
 
 # variables
