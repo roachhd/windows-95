@@ -1,5 +1,5 @@
 permalink: /:year:month:day/:title
-url: "/windows-95/"  #Your url here
+url: "http://katieball.me/windows-95/"  #Your url here
 baseurl: "http://katieball.me/windows-95/"
 
 # variables
