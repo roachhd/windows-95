@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
-url: http://katieball.me//windows-95
-baseurl: http://katieball.me//windows-95
+url: http://katieball.me/windows-95
+baseurl: http://katieball.me/windows-95
 
 # variables
 name: Your Site Name
